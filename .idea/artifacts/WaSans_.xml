@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WaSans!">
+    <output-path>$PROJECT_DIR$/out/artifacts/WaSans_</output-path>
+    <root id="archive" name="WaSans!.jar">
+      <element id="module-output" name="RhythmGame" />
+    </root>
+  </artifact>
+</component>

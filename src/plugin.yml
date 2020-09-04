@@ -1,0 +1,7 @@
+main: com.lml.wasans.Main
+version: 1.0
+name: RhythmGame
+
+commands:
+  rhythm:
+    description: "리듬 게임 플러그인\n\n/rhythm start <플레이할 유저> <출제할 유저>\n/rhythm stop\n/rhythm init"
