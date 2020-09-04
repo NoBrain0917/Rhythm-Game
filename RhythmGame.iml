@@ -10,11 +10,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/파일들/영민/마크 관련/서버 구동기/놀이터/spigot.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/파일들/마크 관련/서버 구동기/spigot.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="jar://$USER_HOME$/Desktop/파일들/영민/마크 관련/서버 구동기/놀이터/spigot.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/파일들/마크 관련/서버 구동기/spigot.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
